@@ -1,0 +1,14 @@
+D:\Users\20241170150070\Nova pasta (8)\obj\Debug\net8.0\Nova pasta (8).GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150070\Nova pasta (8)\obj\Debug\net8.0\Nova pasta (8).AssemblyInfoInputs.cache
+D:\Users\20241170150070\Nova pasta (8)\obj\Debug\net8.0\Nova pasta (8).AssemblyInfo.cs
+D:\Users\20241170150070\Nova pasta (8)\obj\Debug\net8.0\Nova pasta (8).csproj.CoreCompileInputs.cache
+D:\Users\20241170150070\Nova pasta (8)\bin\Debug\net8.0\Nova pasta (8).exe
+D:\Users\20241170150070\Nova pasta (8)\bin\Debug\net8.0\Nova pasta (8).deps.json
+D:\Users\20241170150070\Nova pasta (8)\bin\Debug\net8.0\Nova pasta (8).runtimeconfig.json
+D:\Users\20241170150070\Nova pasta (8)\bin\Debug\net8.0\Nova pasta (8).dll
+D:\Users\20241170150070\Nova pasta (8)\bin\Debug\net8.0\Nova pasta (8).pdb
+D:\Users\20241170150070\Nova pasta (8)\obj\Debug\net8.0\Nova pasta (8).dll
+D:\Users\20241170150070\Nova pasta (8)\obj\Debug\net8.0\refint\Nova pasta (8).dll
+D:\Users\20241170150070\Nova pasta (8)\obj\Debug\net8.0\Nova pasta (8).pdb
+D:\Users\20241170150070\Nova pasta (8)\obj\Debug\net8.0\Nova pasta (8).genruntimeconfig.cache
+D:\Users\20241170150070\Nova pasta (8)\obj\Debug\net8.0\ref\Nova pasta (8).dll
